@@ -1,0 +1,9 @@
+.card {
+    text-align: center;
+    margin: 1em;
+}
+
+.navbar-login {
+    position: absolute;
+    left: 96.5%;
+}
